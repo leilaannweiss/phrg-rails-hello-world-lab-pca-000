@@ -19,4 +19,8 @@ The RSpec/Capybara test suite is currently not passing. Run the tests to see wha
 
 ***Note***: From this point forward, labs will not always be provided as a blank slate, with the responsibility for creating migrations, models, controllers, etc. falling on you. Instead, many labs will contain broken or incomplete code, and you will be required to add to or fix the existing code in order for the specs to pass. In some cases, code that you wrote in a previous lab will be provided. This way, you can focus on applying new concepts instead of getting bogged down in repetitive work, such as setting up a basic Rails app for every new lab. In other cases, you will be gaining the practical experience of learning how to work within an existing code base, which is what you will likely experience at your first job. Rare is the junior developer who gets to create from whole cloth: it’s far more likely that you’ll be onboarded to a project with unfamiliar code created by other developers. Always use the specs to guide you through what additions and/or modifications are needed, and remember: you do **not** have to run the specs in the order provided in the lab. Work on your troubleshooting chops!
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-rails-hello-world-lab/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-rails-hello-world-lab/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Rails Hello World Lab</p>
